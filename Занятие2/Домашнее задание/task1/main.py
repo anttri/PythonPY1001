@@ -13,4 +13,4 @@ if __name__ == "__main__":
             min_value_index = i
 
     print("Минимальный элемент =", min_value, "находится по индексу", min_value_index)
-dsfdsfdsmvhmngj
+dsfdsfdsmvhmngjgnfg
